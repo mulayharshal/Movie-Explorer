@@ -11,8 +11,7 @@
 
 🔗 **Live Frontend:** https://your-netlify-link  
 🔗 **Backend API:** https://your-render-url/api/movies  
-🔗 **GitHub Repo:** https://github.com/your-repo-link  
-
+🔗 **GitHub Repo:** https://github.com/mulayharshal/Movie-Explorer.git
 </div>
 
 ---
@@ -103,7 +102,7 @@ Built using **React + Vite** with clean, modern, responsive design.
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-repo-link
+git clone https://github.com/mulayharshal/Movie-Explorer.git
 cd movie-explorer
 ```
 
