@@ -1,0 +1,63 @@
+# FRONTEND (React + Vite)
+
+# Node modules
+node_modules/
+
+# Vite build output
+dist/
+
+# Local env variables
+.env
+
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# BACKEND (Spring Boot)
+
+# Build folders
+target/
+build/
+
+# IDE specific
+*.iml
+.idea/
+.project
+.classpath
+.settings/
+bin/
+out/
+
+# Maven wrapper logs
+.mvn/wrapper/maven-wrapper.jar
+
+
+# Log files
+*.log
+
+# GENERAL
+
+# System files
+*.tmp
+*.swp
+
+# Backup files
+*.bak
+*.old
+
+# Package locks (optional)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml

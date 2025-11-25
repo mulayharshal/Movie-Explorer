@@ -1,0 +1,31 @@
+.movie-grid {
+  display: grid;
+  gap: 22px;
+  padding: 20px;
+  justify-content: center;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+}
+
+/* No results text */
+.no-results {
+  text-align: center;
+  font-size: 18px;
+  color: #666;
+  margin-top: 30px;
+}
+
+/* Tablet */
+@media (max-width: 768px) {
+  .movie-grid {
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    gap: 18px;
+  }
+}
+
+@media (max-width: 480px) {
+  .movie-grid {
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 15px;
+    padding: 15px;
+  }
+}
