@@ -9,9 +9,9 @@
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-3.0-brightgreen?style=flat-square)
 ![OMDB API](https://img.shields.io/badge/OMDB-API-red?style=flat-square)
 
-🔗 **Live Frontend:** not available
+🔗 **Live Frontend:** https://movieexplorersapp.netlify.app/
 
-🔗 **Backend API:** not available 
+🔗 **Backend API:** https://movie-explorer-kz6z.onrender.com/
 
 🔗 **GitHub Repo:** https://github.com/mulayharshal/Movie-Explorer.git
 </div>
